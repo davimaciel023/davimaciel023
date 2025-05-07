@@ -2,27 +2,28 @@
 
 **`Desenvolvedor Front-End`**
 
-Desenvolvedor front-end em formação, com base sólida em redes de computadores e foco em interfaces modernas e funcionais.
-Formado pelo IFCE no curso técnico integrado em Redes e atualmente cursando Análise e Desenvolvimento de Sistemas.
-Busco criar experiências web intuitivas, acessíveis e bem estruturadas, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript, Angular, Ionic, Firebase, e muito mais. 
+Desenvolvedor front-end em formação, com uma base técnica sólida e comprometido em entregar soluções eficientes e de alta qualidade.
+Formado pelo Instituto Federal do Ceará (IFCE) no curso técnico em Redes de Computadores e atualmente cursando Análise e Desenvolvimento de Sistemas.
+Tenho foco em criar interfaces intuitivas, acessíveis e com excelente experiência para o usuário, sempre alinhado às melhores práticas de desenvolvimento e design. 
 
 
 ### 🤖 Linguagens e Tecnologias
-<img
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg
-" />
-<img
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="CSS" 
+    title="CSS"
     width="30px" 
-    style="padding-right: 10px;"  
-    src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 <img
     align="left" 
     alt="ANGULAR"
