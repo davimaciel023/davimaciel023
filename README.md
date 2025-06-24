@@ -7,7 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimaciel023&layout=compact&hide_border=true&title_color=1339AC&text_color=1339AC&bg_color=0d1117" >
 </div>
 
-[![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/davimaciel023?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dracula) ](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
